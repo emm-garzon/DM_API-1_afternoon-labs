@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+button {
+  padding: 25px;
+  background-color: lightblue;
+  color: grey;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
+
+h2 {
+  display: inline-block;
+  font-size: 18px;
+  text-transform: lowercase;
+  font-style: italic;
+  width: 250px;
+  border: solid 5px white;
+  padding: 10px;
+  margin-right: 20px;
+}
